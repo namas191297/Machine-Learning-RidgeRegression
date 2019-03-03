@@ -9,7 +9,7 @@ approximate the best fitting mapping function.
 
 The linear regression equation can be initially considered to be :
 
-SIZE = CONSTANT + 13.0*WEIGHT - 0.8*INTAKE
+SIZE = CONSTANT + 13.0 * WEIGHT - 0.8 * INTAKE
 
 where CONSTANT = 12
 
